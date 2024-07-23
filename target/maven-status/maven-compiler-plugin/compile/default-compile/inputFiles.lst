@@ -1,0 +1,7 @@
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/controller/UserController.java
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/configuration/CorsConfiguration.java
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/repository/UserRepository.java
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/service/UserService.java
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/StartupRunner.java
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/api/ApiApplication.java
+/home/patrick/Área de Trabalho/api/src/main/java/com/social_network/model/User.java
